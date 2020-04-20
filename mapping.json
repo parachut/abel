@@ -1,0 +1,34 @@
+{
+  "strict": {
+    "text-font-family": "GothamSSm-Book",
+
+    "text-heading-1-font-size": 36,
+    "text-heading-1-font-weight": "800",
+    "text-heading-1-font-family": "UntitledSerif-Bold",
+
+    "text-subtitle-1-font-size": 15,
+    "text-subtitle-1-font-weight": "600",
+    "text-subtitle-1-font-family": "GothamSSm-Book",
+
+    "text-paragraph-1-font-size": 15,
+    "text-paragraph-1-font-weight": "400",
+    "text-paragraph-1-font-family": "GothamSSm-Book",
+
+    "text-caption-1-font-size": 12,
+    "text-caption-1-font-weight": "400",
+    "text-caption-1-font-family": "GothamSSm-Book",
+
+    "text-label-font-size": 12,
+    "text-label-font-weight": "600",
+    "text-label-font-family": "GothamSSm-Bold"
+  },
+  "components": {
+    "Button": {
+      "appearances": {
+        "filled": {
+          "borderRadius": 0
+        }
+      }
+    }
+  }
+}
